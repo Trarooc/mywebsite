@@ -1,0 +1,32 @@
+.News{
+   width: 600px;
+    border:solid 1px;
+    margin: 10px;
+}   
+#background-LV{
+    background-color: #EB92A9;
+    text-align: center;
+    color: white;
+}
+#background-NIKE{
+    background-color: #A58A72;
+    text-align: center;
+}
+#background-RP{
+    background-color: #C62121;
+    text-align: center;
+    color: #E5E5E5;
+}
+.LV{
+    background-color: #B8A68E;
+    color: #2D150A;
+}
+.NIKE{
+    background-color: #FEF54F;
+}
+.RV{
+    background-color: #E5E5E5;
+}
+div{
+    display: block;
+}
